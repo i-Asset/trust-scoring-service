@@ -410,7 +410,7 @@
             <id>docker</id>
             <properties>
                 <docker.plugin.version>1.2.0</docker.plugin.version>
-                <docker.image.prefix>nimbleplatform</docker.image.prefix>
+                <docker.image.prefix>iassetplatform</docker.image.prefix>
                 <dockerImageTag>${project.version}</dockerImageTag>
             </properties>
             <build>
